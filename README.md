@@ -1,5 +1,5 @@
 # business-statistics
-README – Business Statistics Final Assignment (Group B)
+README – Business Statistics Final Assignment
 
 **Project Overview**
 
